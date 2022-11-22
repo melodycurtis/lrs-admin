@@ -32,4 +32,3 @@ module.exports = {
   useBrowserSync: 'true'
 
 }
-npm run devicePixelRatio
